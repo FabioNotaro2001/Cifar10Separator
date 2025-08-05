@@ -140,4 +140,4 @@ If you'd like to modify the notebook:
 
 📝 Summary
 
-This repository delivers a clean, educational demonstration of CIFAR‑10 image classification—with code, outputs, and visualizations neatly organized in a single notebook. It's ideal for experiment tracking, coursework demonstration, or extension into more complex image tasks.
+This repository delivers a clean, educational demonstration of CIFAR‑10 image classification—with code, outputs and visualizations neatly organized in a single notebook. It's ideal for experiment tracking, coursework demonstration, or extension into more complex image tasks.
